@@ -40,3 +40,5 @@ D:\WorkSpace\CashFlow\src\CashFlow.api\obj\Debug\net8.0\refint\CashFlow.api.dll
 D:\WorkSpace\CashFlow\src\CashFlow.api\obj\Debug\net8.0\CashFlow.api.pdb
 D:\WorkSpace\CashFlow\src\CashFlow.api\obj\Debug\net8.0\CashFlow.api.genruntimeconfig.cache
 D:\WorkSpace\CashFlow\src\CashFlow.api\obj\Debug\net8.0\ref\CashFlow.api.dll
+D:\WorkSpace\CashFlow\src\CashFlow.api\obj\Debug\net8.0\CashFlow.api.sourcelink.json
+D:\WorkSpace\CashFlow\src\CashFlow.api\bin\Debug\net8.0\FluentValidation.dll
